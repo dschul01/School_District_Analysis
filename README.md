@@ -16,7 +16,7 @@ The data utilized for the analysis can be accessed through the following links: 
 
 
 ### Other Impacts
-#### Comparing Grades 
+#### *Comparing Grades 
 
 #### Comparing School Spending
 
