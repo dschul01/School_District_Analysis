@@ -10,8 +10,11 @@ The data utilized for the analysis can be accessed through the following links: 
 The analysis below shows the impact of the potential Thomas High School (THS) ninth grade academic dishonesty on the district metrics. 
 
 ### Impact to District
-There are minimal impacts to the district from the THS issue.  Images below show all district scores vs replacing THS ninth grade scores with 'Not a Number' (NaN).
-
+There are minimal impacts to the district from the THS issue due to the small count of THS ninth graders in comparison to the total district's student body count.  Images below show all district scores vs replacing THS ninth grade scores with 'Not a Number' (NaN).  
+* Average Math Score decreased by 0.1%
+* % Passing Math decreased by 0.2%
+* % Passing Reading decreased by 0.1%
+* % Overall Passing decreased by 0.3%
 All District Data:
 ![District_Summary_Orig.png](https://github.com/dschul01/School_District_Analysis/blob/main/Resources/District_Summary_Orig.png)
 
