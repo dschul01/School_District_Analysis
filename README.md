@@ -15,6 +15,7 @@ There are minimal impacts to the district from the THS issue due to the small co
 * % Passing Math decreased by 0.2%
 * % Passing Reading decreased by 0.1%
 * % Overall Passing decreased by 0.3%
+
 All District Data:
 ![District_Summary_Orig.png](https://github.com/dschul01/School_District_Analysis/blob/main/Resources/District_Summary_Orig.png)
 
