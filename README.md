@@ -44,7 +44,7 @@ Updated School Data:
 
 ### Other Impacts
 When comparing Scores by Grade, the only impact from replacing the ninth grade scores is that THS ninth grade scores change from an Integer to NaN as seen in the image below which is after the updated scores are calculated.
-<img src=""https://github.com/dschul01/School_District_Analysis/blob/main/Resources/School_Grade_Updated.png" width="200">
+<img src="https://github.com/dschul01/School_District_Analysis/blob/main/Resources/School_Grade_Updated.png" width="200" height="200" />
 
 The adjustment of THS ninth grade scores only have a nominal impact when looking across the bins for school spending & size as well as by school type.
 
