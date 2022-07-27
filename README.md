@@ -7,7 +7,16 @@ The purpose of this project is to utilize Python and Jupyter Notebook to automat
 The data utilized for the analysis can be accessed through the following links: ![schools_complete.csv](https://github.com/dschul01/School_District_Analysis/blob/main/Resources/schools_complete.csv) and ![students_complete.csv](https://github.com/dschul01/School_District_Analysis/blob/main/Resources/students_complete.csv)
 
 ## Results from Thomas High School (THS) Academic Dishonesty
+The analysis below shows the impact of the potential Thomas High School (THS) ninth grade academic dishonesty on the district metrics. 
+
 ### Impact to District
+There are minimal impacts to the district from the THS issue.  Images below show all district scores vs replacing THS ninth grade scores with 'Not a Number' (NaN).
+
+All District Data:
+![District_Summary_Orig.png](https://github.com/dschul01/School_District_Analysis/blob/main/Resources/District_Summary_Orig.png)
+
+Updated Data:
+![District_Summary_Updated.png](https://github.com/dschul01/School_District_Analysis/blob/main/Resources/District_Summary_Updated.png)
 
 ### Impact to School
 
