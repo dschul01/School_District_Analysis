@@ -56,4 +56,4 @@ The adjustment of THS ninth grade scores only have a nominal impact when looking
 1. THS drops significantly from second to eighth in the overall passing percentage compared to the other schools in the districts.
 2. Overall district scores are not majorily impacted from the change in score.
 3. Scores by grade are only impacted for ninth grade as the scores were updated from integers to NaN.
-4. Scores by budget bin groupings are only nominallyimpacted by the adjustment in scores.
+4. Scores by budget bin groupings are only nominally impacted by the adjustment in scores.
